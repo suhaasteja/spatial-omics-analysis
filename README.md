@@ -49,10 +49,6 @@ The model uses two parallel networks:
 
 These networks combine to make the final classification.
 
-# Spatial Cell Type Classification Using Machine Learning
-
-[Previous sections remain the same...]
-
 ## Results and Analysis
 
 Our model's performance can be seen in the comparison of true cell types versus predicted cell types:
